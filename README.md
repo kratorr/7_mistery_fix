@@ -11,7 +11,7 @@ import quadratic_equation
 
 print(quadratic_equation.get_roots(1, 2, -3))
 ```
-(-3.0, 1.0)
+Результат выполнения выводится в консоль: (-3.0, 1.0)
 
 # Как запустить
 

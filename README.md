@@ -5,11 +5,11 @@
 # Как использовать
 
 Функция get_roots, принимает 3 обязательных аргумента
-
+```
 >>>import quadratic_equation
 >>>quadratic_equation.get_roots(1,2,-3)
 (-3.0, 1.0)
-
+```
 
 # Как запустить
 

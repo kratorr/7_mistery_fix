@@ -4,14 +4,7 @@
 
 # Как использовать
 
-Функция get_roots, принимает 3 обязательных аргумента
-
-Общий вид:
-```python
-import quadratic_equation
-
-print(quadratic_equation.get_roots(a, b, c))
-```
+Функция get_roots, принимает 3 обязательных аргумента get_roots(a, b, c)
 Пример:
 ```python
 import quadratic_equation

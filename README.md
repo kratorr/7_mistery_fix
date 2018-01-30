@@ -10,15 +10,15 @@
 ```python
 import quadratic_equation
 
-print(quadratic_equation.get_roots(a, b, c)
+print(quadratic_equation.get_roots(a, b, c))
 ```
 Пример:
 ```python
 import quadratic_equation
 
-print(quadratic_equation.get_roots(1, 2, -3)
+print(quadratic_equation.get_roots(1, 2, -3))
 ```
-
+(-3.0, 1.0)
 
 # Как запустить
 

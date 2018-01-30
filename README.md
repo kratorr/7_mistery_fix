@@ -1,15 +1,24 @@
 # Решатель квадратных уравнений
 
-Программа вычисляет корни квадратного уравнения.
+Программа вычисляет корни квадратного уравнения общего вида: ![y=ax^2+bx+c=0](https://wikimedia.org/api/rest_v1/media/math/render/svg/24c2ce44ca552049d96088988f5d83f6763c059a)
 
 # Как использовать
 
 Функция get_roots, принимает 3 обязательных аргумента
+
+Общий вид:
+```python
+import quadratic_equation
+
+print(quadratic_equation.get_roots(a, b, c)
 ```
->>>import quadratic_equation
->>>quadratic_equation.get_roots(1,2,-3)
-(-3.0, 1.0)
+Пример:
+```python
+import quadratic_equation
+
+print(quadratic_equation.get_roots(1, 2, -3)
 ```
+
 
 # Как запустить
 
